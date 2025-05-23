@@ -45,7 +45,7 @@ The process can be extended to support:
 
 ## 📂 Folder Structure
 ```
-data/
+Input-and-Output/data/
 ├── raw_pdfs/ # Uploaded scanned book PDFs
 ├── ocr_texts/ # Cleaned extracted text files
 ├── structured/ # structured JSON
